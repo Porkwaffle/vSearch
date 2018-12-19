@@ -1,0 +1,6 @@
+framework module Pods_vSearch {
+  umbrella header "Pods-vSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}
